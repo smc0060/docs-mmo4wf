@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hjqhrq.acceptancetesting.dev/sitemap.xml
